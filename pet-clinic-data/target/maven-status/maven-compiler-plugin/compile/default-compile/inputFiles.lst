@@ -1,6 +1,8 @@
+D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\model\Visit.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\map\PetServiceMap.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\CrudService.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\model\Owner.java
+D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\PetTypeService.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\PetService.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\model\BaseEntity.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\model\Person.java
@@ -10,5 +12,7 @@ D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\se
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\model\Vet.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\OwnerService.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\map\AbstractMapService.java
+D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\model\Speciality.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\map\OwnerServiceMap.java
 D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\map\VetServiceMap.java
+D:\mike\PetClinic\pet-clinic-data\src\main\java\mike\springstart\sfgpetclinic\services\map\PetTypeMapService.java
