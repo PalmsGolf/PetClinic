@@ -1,5 +1,14 @@
 mike\springstart\sfgpetclinic\model\Pet.class
-mike\springstart\sfgpetclinic\model\PetType.class
+mike\springstart\sfgpetclinic\services\map\OwnerServiceMap.class
+mike\springstart\sfgpetclinic\services\VetService.class
 mike\springstart\sfgpetclinic\model\Person.class
+mike\springstart\sfgpetclinic\services\CrudService.class
+mike\springstart\sfgpetclinic\model\PetType.class
+mike\springstart\sfgpetclinic\services\map\VetServiceMap.class
+mike\springstart\sfgpetclinic\services\OwnerService.class
+mike\springstart\sfgpetclinic\services\PetService.class
+mike\springstart\sfgpetclinic\model\BaseEntity.class
+mike\springstart\sfgpetclinic\services\map\PetServiceMap.class
 mike\springstart\sfgpetclinic\model\Vet.class
 mike\springstart\sfgpetclinic\model\Owner.class
+mike\springstart\sfgpetclinic\services\map\AbstractMapService.class
